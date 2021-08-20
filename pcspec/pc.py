@@ -6,7 +6,7 @@ from cpuinfo import get_cpu_info
 import GPUtil
 from GPUtil.GPUtil import GPU
 # 
-from pcspec.pyadl import ADLManager, ADLDevice
+from pcspec.pyadl.pyadl import ADLManager, ADLDevice
 
 
 
