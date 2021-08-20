@@ -2,7 +2,8 @@
 A pythonic tool for getting PC main specifications like `CPU` and `GPU` model , `RAM` and disk free space.
 
 ## Installation
-<small>Soon (via `pip`) ...</small>
+<sub>Soon (via pip) ...</sub>
+<br>
 <br>
 `python -m pip install -r requirements.txt`
 
