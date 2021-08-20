@@ -14,7 +14,7 @@ from pcspec import PC
 
 pc = PC()
 
-print(p.json_info)
+print(pc.json_info)
 ```
 Output :
 ```json
