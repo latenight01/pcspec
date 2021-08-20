@@ -1,0 +1,3 @@
+[submodule "pcspec/pyadl"]
+	path = pcspec/pyadl
+	url = https://github.com/nicolargo/pyadl
