@@ -27,7 +27,7 @@ Output :
 }
 ```
 ### Features
-- Supporting get the both AMD and Nvidia GPU infos
+- Getting both AMD and Nvidia GPU infos
 
 ---
 
