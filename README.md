@@ -3,7 +3,8 @@ A pythonic tool for getting PC main specifications like `CPU` and `GPU` model , 
 
 <hr>
 
-### Note : I have not test this tool on many different machines and it can be buggy and unstable. so feel free to create any issue or PR
+### Note
+I have not test this tool on many different machines and it can be buggy and unstable. so feel free to create any issue or PR
 
 <hr>
 
