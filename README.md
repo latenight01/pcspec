@@ -1,15 +1,7 @@
 # pcspec
 A pythonic tool for getting PC main specifications like `CPU` and `GPU` model , `RAM` and disk free space.
 
-<hr>
-
-### Note
-I have not test this tool on many different machines and it can be buggy and unstable. so feel free to create any issue or PR
-
-<hr>
-
 ## Installation
-<sub>Soon (via pip) ...</sub>
 <br>
 <br>
 `python -m pip install -r requirements.txt`
@@ -33,5 +25,3 @@ Output :
     "RAM": "7.5 GB"
 }
 ```
-### Features
-- Getting both AMD and Nvidia GPU infos
